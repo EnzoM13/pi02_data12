@@ -10,6 +10,12 @@
 Este proyecto tiene como objetivo analizar y extraer información valiosa de datos relacionados con el mercado de las telecomunicaciones. A través del uso de técnicas de Data Analytics, vamos a explorar tendencias, identificar patrones, y obtener perspectivas significativas para ayudar a la toma de decisiones estratégicas.
 El objetivo final de este proyecto es proporcionar información valiosa que permita a las empresas del sector tomar decisiones más informadas y eficientes, anticipándose a las tendencias del mercado y mejorando sus operaciones. Estamos emocionados por embarcarnos en este viaje y descubrir las historias que los datos tienen para contarnos en el apasionante mundo de las telecomunicaciones.
 
+## **Herramientas Utilizadas**
++Pandas
++Matplotlib
++Power BI
+
+
 ## **Paso a paso:**
 
 ### 1. EDA
