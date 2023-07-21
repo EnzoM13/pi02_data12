@@ -12,6 +12,7 @@ El objetivo final de este proyecto es proporcionar información valiosa que perm
 
 ## **Herramientas Utilizadas**
 + Pandas
++ Python
 + Matplotlib
 + Power BI
 
