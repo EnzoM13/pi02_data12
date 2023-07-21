@@ -11,9 +11,9 @@ Este proyecto tiene como objetivo analizar y extraer información valiosa de dat
 El objetivo final de este proyecto es proporcionar información valiosa que permita a las empresas del sector tomar decisiones más informadas y eficientes, anticipándose a las tendencias del mercado y mejorando sus operaciones. Estamos emocionados por embarcarnos en este viaje y descubrir las historias que los datos tienen para contarnos en el apasionante mundo de las telecomunicaciones.
 
 ## **Herramientas Utilizadas**
-+Pandas
-+Matplotlib
-+Power BI
++ Pandas
++ Matplotlib
++ Power BI
 
 
 ## **Paso a paso:**
